@@ -1,0 +1,11 @@
+{
+    "datadog.ust.service.setup.linkedNames": [
+        "advertisements",
+        "discounts",
+        "postgres",
+        "store-frontend",
+        "store-frontend-cache",
+        "store-frontend-sqlite"
+    ],
+    "datadog.ust.environment.setup.focusedName": "development"
+}
