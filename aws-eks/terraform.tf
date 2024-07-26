@@ -1,10 +1,10 @@
 terraform {
   
   cloud {
-    organization = "organization-name"
+    organization = "lep511"
 
     workspaces {
-      name = "learn-terraform"
+      name = "aws-eks"
     }
   }
   
